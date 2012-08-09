@@ -19,7 +19,7 @@
           
     <property name="mcp.version"         value="62"/>
     <property name="forge.version"       value="3.3.8.152"/>
-    <property name="tb.version"          value="3.1.6"/>
+    <property name="tb.version"          value="1.0.0"/>
     <property name="tb.version.full"     value="${tb.version}.${BUILD_NUMBER}"/>
     
     <echo message="Starting build for ${tb.version.full}"/>
