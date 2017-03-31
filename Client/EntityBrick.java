@@ -20,7 +20,7 @@ public class EntityBrick extends EntityThrowable
     }
 
     /**
-     * Called to update the entity's position/logic.
+     * Called to update the entityies position/logic.
      */
     public void onUpdate()
     {
